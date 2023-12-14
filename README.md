@@ -1,2 +1,4 @@
 # AGCCI-class
-My first repository
+
+Hey my name is Tamira
+MY EXPERIENCE AT AGCCI WAS FANTASTIC
